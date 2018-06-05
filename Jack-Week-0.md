@@ -6,4 +6,4 @@ Answer this one question, then follow the instructions to submit your first asse
 
 #### 1. What is one thing we did in class this week that helped you learn the most?  
 
-I actually really like the lecture times because for me they serve as a forum to ask all the questions that I have.  
+I feel like doing the live coding as a class helps me the most because it allows me to see a methodical and efficient approach to solving these coding challenges that I probably would not have come up with.  
