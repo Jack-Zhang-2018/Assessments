@@ -6,6 +6,10 @@
 
     Javascript is pretty flexible when it comes to the number of arguments passed into the function.  I didn't know that functions in JS will still try to run if you pass in extra or too few parameters.  I have to be careful about this because I might accidentally make this error without knowing it.
 
+    I think it's pretty cool how you can utilize the closure feature of functions to in a sense create function factories.  Could this be what functional programming is?
+
+    
+
 
 #### 2. What is a linter for? Do you think they are usefull? Explain why/why not.
 
