@@ -4,7 +4,7 @@
 
 #### 1. One great resource for learning Javascript is Eloquent Javascript - read this chapter on functions (http://eloquentjavascript.net/03_functions.html) and list a few thoughts, questions, or things you learned here:
 
-  //Your List
+    Javascript is pretty flexible when it comes to the number of arguments passed into the function.  I didn't know that functions in JS will still try to run if you pass in extra or too few parameters.  I have to be careful about this because I might accidentally make this error without knowing it.
 
 
 #### 2. What is a linter for? Do you think they are usefull? Explain why/why not.
